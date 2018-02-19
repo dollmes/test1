@@ -8,6 +8,6 @@
 
  git clone https://github.com/b4b4r07/enhancd
 
- source enhanced/init.sh
+ source enhancd/init.sh
 
 
