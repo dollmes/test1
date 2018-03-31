@@ -10,4 +10,21 @@
 
  source enhancd/init.sh
 
+[spacefm]
+
+ 参考：https://ameblo.jp/gokurakuhaze/entry-12212109760.html
+
+ apt-get install spacefm udevil
+
+[parcellite]
+
+ 参考：http://d.hatena.ne.jp/weblinuxmemo/20091012/p1
+
+ apt-get install parcellite
+
+[byobu]
+
+ 参考：https://qiita.com/kayama0fa/items/82d3ebab8bb297bdfd23
+
+ sudo apt-get install byobu
 
