@@ -28,3 +28,14 @@
 
  sudo apt-get install byobu
 
+[pulseaudio]
+
+  RTPで受け
+  
+  　load-module module-rtp-recv
+   
+  RTPで送り
+  
+  　load-module module-null-sink sink_name=rtp format=s16be channels=2 rate=44100 sink_properties="device.description='RTP Multicast Sink'"
+   
+  　load-module module-rtp-send source=rtp.monitor
