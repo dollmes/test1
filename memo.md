@@ -43,5 +43,6 @@
 [python atom]
 
   参考：https://www.web-jozu.com/python/python-atom/  
-       https://prog-8.com/languages/python
+       https://prog-8.com/languages/python  
+       https://www.sejuku.net/blog/76158
        
