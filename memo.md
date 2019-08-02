@@ -39,3 +39,9 @@
   　load-module module-null-sink sink_name=rtp format=s16be channels=2 rate=44100 sink_properties="device.description='RTP Multicast Sink'"
    
   　load-module module-rtp-send source=rtp.monitor
+
+[python atom]
+
+  参考：https://www.web-jozu.com/python/python-atom/  
+       https://prog-8.com/languages/python
+       
