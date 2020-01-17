@@ -46,8 +46,8 @@
        https://prog-8.com/languages/python  
        https://www.sejuku.net/blog/76158
        
-[cygwinでssh-server]
-    apt-cyg install openssh openssl
-    ssh-host-config
-    vi /etc/sshd_config
-    cygrunsrv -S cygsshd
+[cygwinでssh-server]  
+    apt-cyg install openssh openssl  
+    ssh-host-config  
+    vi /etc/sshd_config  
+    cygrunsrv -S cygsshd  
