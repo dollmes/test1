@@ -51,3 +51,7 @@
     ssh-host-config  
     vi /etc/sshd_config  
     cygrunsrv -S cygsshd  
+
+[crc16 左送り]  
+    https://kyouichisato.blogspot.com/2014/09/crc-16-ccitt.html?m=0  
+    
