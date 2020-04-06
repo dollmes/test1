@@ -54,4 +54,6 @@
 
 [crc16 左送り]  
     https://kyouichisato.blogspot.com/2014/09/crc-16-ccitt.html?m=0  
-    
+
+[clang-format]  
+    https://blog.takuchalle.dev/post/2018/04/26/setup_clang_format/  
