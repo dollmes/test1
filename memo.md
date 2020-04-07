@@ -57,3 +57,6 @@
 
 [clang-format]  
     https://blog.takuchalle.dev/post/2018/04/26/setup_clang_format/  
+
+[0xff]埋め  
+    $ tr "\000" "\377" < /dev/zero | dd ibs=1k count=1000 of=0xffFile.bin
