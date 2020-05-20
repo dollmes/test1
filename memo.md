@@ -66,3 +66,7 @@
     Trailing Spaces  
     Bracket Pair Colorizer  
     
+[ARN GIC]  
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&cad=rja&uact=8&ved=2ahUKEwiJr7bwvsLpAhXEBIgKHY61DNAQFjAFegQICRAB&url=https%3A%2F%2Fdev.toppers.jp%2Ftrac_user%2Fcontrib%2Fexport%2F306%2Fasp3_wo_tecs%2Ftrunk%2Farch%2Farm_gcc%2Fdoc%2Fgic_memo.txt&usg=AOvVaw0TTZCteN1CfPwucnzzbpuC
+
+
