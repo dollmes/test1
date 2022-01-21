@@ -71,3 +71,7 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&cad=rja&uact=8&v
 
 [opencv gstreamer raspi]  
 https://qiita.com/yamato225/items/0870beca1822c6dccad3  
+
+[Dockerを使ってポータブルなArm64エミュレート環境を構築]  
+https://qiita.com/muscat201807/items/468bb6608a61d6f31f1c
+
