@@ -1,0 +1,18 @@
+FROM arm64v8/ubuntu:18.04
+
+RUN apt update && apt install -y \
+    openssh-server build-essential wget git \
+    cmake binutils binutils-common \
+    iproute2 net-tools pkg-config yasm \
+    checkinstall libjpeg8-dev libpng-dev \
+    software-properties-common vim sudo
+
+RUN mkdir /var/run/sshd
+
+
+RUN groupadd -g 1000 buildman && \
+    useradd -m -s /bin/bash -u 1000 -g 1000 -G sudo buildman && \
+    echo buildman:password | chpasswd
+
+EXPOSE 22
+CMD ["/usr/sbin/sshd", "-D"]
