@@ -80,3 +80,7 @@ https://qiita.com/probabilityhill/items/9a22f395a1e93206c846
 
 [Windowsでpyenv（pyenv-win）とvenvを使ってPythonの仮想環境を構築]  
 https://qiita.com/t_koba/items/2e8f9eafbdd7644cff20  
+
+[How To Use GPIO on the Raspberry Pi with C++]  
+https://www.digikey.com/en/maker/blogs/2019/how-to-use-gpio-on-the-raspberry-pi-with-c  
+
