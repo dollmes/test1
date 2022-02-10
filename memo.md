@@ -75,3 +75,8 @@ https://qiita.com/yamato225/items/0870beca1822c6dccad3
 [Dockerを使ってポータブルなArm64エミュレート環境を構築]  
 https://qiita.com/muscat201807/items/468bb6608a61d6f31f1c
 
+[【pyenv-win】pyenv のインストールと実行]  
+https://qiita.com/probabilityhill/items/9a22f395a1e93206c846  
+
+[Windowsでpyenv（pyenv-win）とvenvを使ってPythonの仮想環境を構築]  
+https://qiita.com/t_koba/items/2e8f9eafbdd7644cff20  
