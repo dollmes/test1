@@ -1,0 +1,26 @@
+
+syntax = "proto3";
+
+package test;
+
+// client test send
+message ClientTestSendParam{
+    int32 flagA = 1;
+    int32 flagB = 2;
+    int32 flagC = 3;
+    int32 flagD = 4;
+    int32 valA = 5;
+    int32 valB = 6;
+    int32 valC = 7;
+    int32 valD = 8;
+}
+
+// response
+message ServerTestResponseParam{
+    string reply_msg = 1;
+}
+
+// interface
+service TestService{
+    rpc ClientTest (ClientTestSendParam) returns (ServerTestResponseParam) {}
+}
