@@ -84,3 +84,6 @@ https://qiita.com/t_koba/items/2e8f9eafbdd7644cff20
 [How To Use GPIO on the Raspberry Pi with C++]  
 https://www.digikey.com/en/maker/blogs/2019/how-to-use-gpio-on-the-raspberry-pi-with-c  
 
+[firebase c++ sdk]  
+https://firebase.google.com/download/cpp?authuser=0  
+
