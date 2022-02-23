@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+package filesendtest;
+
+// send
+message FileSendTestParam{
+    string name = 1;
+    int32 filesize = 2;
+    int32 index = 3;
+    bytes data = 4;
+}
+
+// response
+message FileSendTestResponseParam{
+    string reply = 1;
+    int32 index = 2;
+    int32 recvedsize = 3;
+}
+
+// interface
+service FileSendTestService{
+    rpc FileSendTest (stream FileSendTestParam) returns (stream FileSendTestResponseParam) {}
+}
